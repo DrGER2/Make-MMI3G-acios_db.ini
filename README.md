@@ -5,4 +5,4 @@ This H-B MMI3G SD script generates a valid acios_db.ini file from the installed 
 
 To apply, extract the attached ZIP archive to an empty FAT32 SD card.  Start the MMI3G system and wait for all functions to start fully (at least 3 minutes).  Insert the script SD card into an open SD slot.  Follow the screen prompts.  Eject the SD card after it finishes.  Inspect the plain-text LOG file for errors.  The new acios_db.ini file will be saved in the var dir/folder of the SD card.
 
-The script can be applied on H-B MMI3G (HNav), MMI3GP (HN+) and RNS-850 (HN+) systems.
+The script can be applied on H-B MMI3G (BNav and HNav), MMI3GP (HN+) and RNS-850 (HN+) systems.
